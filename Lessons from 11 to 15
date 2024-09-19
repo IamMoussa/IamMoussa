@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="This is about me">
+        <meta charset="UTF-8">
+        <title> Youssef Moussa CV </title>
+    </head>
+        <body>
+       <h1>My Info</h1>
+       <p>My Name is <b>Osama Elzero</b></p>
+       <p>Iam <em>Available</em> for Hire</p>
+       <p>My Hour price is <del>$10</del> and the new price is<mark>$30 </mark> </p> 
+<hr>
+       
+       <h1>Here Is Some Of My Clients</h1>
+       <img src="imgs/4083zo.ico" alt="Not Found">
+       <img src="imgs/9375564_avatars_accounts_man_male_people_icon.ico" alt="Photo"
+       width="200px"
+       height="200px">
+       <img src="imgs/bde91377-ae0c-4730-8272-1c5015c1f2c9.ico" alt="Where">
+<hr>
+
+        <h1>My Skills</h1>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <ul>
+                <li>Vuejs</li>
+                <li>Reactjs</li>
+                <li>Angular</li>
+                <ol>
+                    <li value="4 " > v4 0</li>
+                    <li>v5 0</li>
+                    <li>v6 0</li>
+                    <li>v7 0</li>
+                    <li>v8 0</li>
+                </ol>
+            <li>Svelte</li>
+            </ul>
+        <li>Python</li>
+        </ul>
+    </body>
+
+</html>
+==============================================================
