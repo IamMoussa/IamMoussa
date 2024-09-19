@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="This Is Description For My First Page">
+        <title>My First Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1>This Is My First Page</h1>
+    </body>
+</html>
+
+<!-- =========================================================================================--!>
+
+هل ما يتم كتابته داخل الـ <head> يظهر داخل الصفحة؟
+
+لا
+هل عنصر <title> له قفلة؟
+
+نعم
+هل عنصر <meta> له قفلة؟
+
+لا
+هل ما يتم وضعه داخل الـ description في عنصر الـ <meta> يظهر في الصفحة؟
+
+لا
+======================================================================================================
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Page</title>
+        
+        <!--
+            العنصر التالي يحدد وصفًا للصفحة، ويستخدم بشكل رئيسي في محركات البحث لعرض وصف مختصر للصفحة في نتائج البحث.
+        -->
+        <meta name="description" content="This is a description of my first page.">
+
+        <!--
+            العنصر التالي يحدد الكلمات الرئيسية المتعلقة بالصفحة. يساعد هذا في تحسين محركات البحث (SEO) بحيث يمكن العثور على الصفحة باستخدام هذه الكلمات.
+        -->
+        <meta name="keywords" content="HTML, CSS, JavaScript, meta tags">
+
+        <!--
+            العنصر التالي يحدد مؤلف الصفحة أو الجهة المسؤولة عنها. قد يكون مفيدًا لتحديد مصدر الصفحة.
+        -->
+        <meta name="author" content="Youssef Moussa">
+
+        <!--
+            العنصر التالي يحدد نوع ترميز الأحرف المستخدم في الصفحة. يساعد هذا في ضمان عرض النصوص بشكل صحيح على جميع المتصفحات.
+        -->
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h1>This Is My First Page</h1>
+    </body>
+</html>
