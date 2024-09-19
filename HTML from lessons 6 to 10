@@ -1,0 +1,30 @@
+ <!--Assignment Six--!?
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="description" content="This is a Vano sports store">
+    <title>Vano Sports Store</title>
+</head>
+
+<body>
+    <h1>Kits Section</h1>
+    <dl>
+        <dt>Barcelona Kit</dt>
+        <dd>We have Neymar's Shirt Season 2015</dd>
+
+        <dt>Manchester United</dt>
+        <dd>We have Garnacho's Shirt Season 2025 (Away Kit)</dd>
+    </dl>
+
+    <hr>
+
+    <h1>Club Supplies</h1>
+    <dl>
+        <dt>GoalKeeper</dt>
+        <dd>We have Gloves and long Socks.</dd>
+
+        <dt>Club</dt>
+        <dd>You can buy training items</dd>
+    </dl>
+</body>
+</html>
